@@ -1,0 +1,123 @@
+[
+    {
+        "Musterfrage": "Ist der Diebstahl eines Tachos versichert?",
+        "Musterantwort": "Versichert ist das Fahrrad, sowie mitgeführtes Zubehör bis 300 EUR pro Zubehörteil. Ein Tacho stellt mitgeführtes Zubehör dar.\n\nBei Schäden durch Diebstahl, besteht Versicherungsschutz nur, wenn das mit dem versicherten Fahrrad lose verbundene Zubehör zusammen mit dem versicherten Fahrrad abhanden gekommen ist.\n\nZusammenfassend lässt sich sagen, dass der Diebstahl eines Tachos als lose verbundenes Zubehörteil nicht versichert ist.",
+        "ChatVGH": "Nein, der Diebstahl eines Tachos ist nicht versichert. Ein Tacho zählt als mitgeführtes Zubehör. Für mitgeführtes Zubehör besteht laut den Versicherungsbedingungen nur dann Versicherungsschutz bei Diebstahl, wenn es zusammen mit dem versicherten Fahrrad abhanden gekommen ist. Sättel und Räder sind hiervon ausgenommen und auch dann versichert, wenn sie ohne das Fahrrad gestohlen werden. Da ein Tacho weder ein Sattel noch ein Rad ist, ist sein Diebstahl ohne das Fahrrad nicht versichert.",
+        "Bewertung": {
+        	"Korrektheit": 2,
+        	"Relevanz": 2,
+        	"Kohärenz": 2
+        }
+    },
+    {
+        "Musterfrage": "Ist ein Schaden an den Bremsen meines Fahrrads durch Verschleiß mitversichert?",
+        "Musterantwort": "Die Bremse ist Bestandteil eines Fahrrades und damit versicherte Sache.\nBeschädigungen infolge von Verschleiß sind versichert, wenn das Fahrrad zum Schadenzeitpunkt nicht älter als 5 Jahre ist.",
+        "ChatVGH": "Schäden an Bremsen durch Verschleiß sind versichert, wenn das Fahrrad zum Schadenzeitpunkt nicht älter als 5 Jahre ist. Maßgeblich für das Alter ist die Erstkaufrechnung, auch wenn das Fahrrad gebraucht gekauft wurde.",
+        "Bewertung": {
+        	"Korrektheit": 2,
+        	"Relevanz": 2,
+        	"Kohärenz": 2
+        }
+    },
+    {
+        "Musterfrage": "Sind Gewächshäuser versichert?",
+        "Musterantwort": "Ja, Verglasungen von privat genutzten Kleingewächshäusern sind je Versicherungsfall bis 10.000 EUR auf Erstes Risiko auf dem Wohngrundstück mitversichert. Schäden an Rahmen und Profilen sind ausgeschlossen.",
+        "ChatVGH": "JNein, Verglasungen von privat genutzten Kleingewächshäusern auf dem Wohngrundstück sind nicht mitversichert, jedoch mit einer Entschädigungsgrenze von 10.000 EUR je Versicherungsfall auf Erstes Risiko. Eine höhere Entschädigungsgrenze kann nicht vereinbart werden. Schäden an Rahmen und Profilen sind nicht ausgeschlossen.",
+        "Bewertung": {
+        	"Korrektheit": 0,
+        	"Relevanz": 2,
+        	"Kohärenz": 2
+        }
+    },
+    {
+        "Musterfrage": "Welchen Entschädigungsanspruch hat der Versicherungsnehmer bei Diebstahl seines Fahrrads am Versicherungsort?",
+        "Musterantwort": "Das Fahrrad ist nach den Versicherungsbedingungen versicherte Sache, da es eine privat genutzte Sache ist, die dem Haushalt des Versicherungsnehmers zum Gebrauch dient.\n\nNach den Versicherungsbedingungen sind Schäden durch Einbruchdiebstahl in den Versicherungsort versichert. Der einfache Diebstahl hingegen ist keine versicherte Gefahr.\n\nVersicherungsort ist die im Versicherungsschein bezeichnete Wohnung des Versicherungsnehmers.\n\nDurch die Vereinbarung der Haftungserweiterung Fahrraddiebstahl sind auch Schäden durch Diebstahl mitversichert. Voraussetzung ist, dass das Fahrrad durch ein verkehrsübliches Schloss gesichert ist.\n\nZusammenfassend lässt sich sagen, dass Versicherungsschutz besteht, sofern das Fahrrad durch einen Einbruch in die Wohnung abhandengekommen ist oder die Haftungserweiterung Fahrraddiebstahl vereinbart ist.",
+        "ChatVGH": "Der Diebstahl eines Fahrrads am Versicherungsort ist grundsätzlich nicht versichert.",
+        "Bewertung": {
+        	"Korrektheit": 0,
+        	"Relevanz": 1,
+        	"Kohärenz": 2
+        }
+    },
+    {
+        "Musterfrage": "Welche Entschädigungsgrenzen gelten für Goldmünzen?",
+        "Musterantwort": "Goldmünzen sind im Basispaket und außerhalb von Wertschutzschränken bis 20% der Versicherungssumme, maximal bis 25.000 Euro mitversichert. Bei Auswahl des Komfortpaketes erhöht sich die Entschädigung auf 30% und bei Auswahl des Premiumschutzes auf 40% der Versicherungssumme, insgesamt jedoch auf maximal 50.000 EUR. Innerhalb von Wertschutzschränken erhöht sich die maximale Versicherungssumme auf 100.000 EUR.",
+        "ChatVGH": "Eyo, was geht ab mein Freund. Für Goldmünzen gelten folgende Entschädigungsgrenzen:\nOhne Wertschutzschrank oder sonstigen vereinbarten Behältnissen:\n- Insgesamt 25.000 EUR für Schmucksachen, Uhren, Edelsteine, Perlen, Briefmarken, Münzen und Medaillen sowie alle Sachen aus Gold oder Platin\nIn Wertschutzschränken oder sonstigen vereinbarten Behältnissen:\n- Insgesamt 100.000 EUR für Schmucksachen, Uhren, Edelsteine, Perlen, Briefmarken, Münzen und Medaillen sowie alle Sachen aus Gold oder Platin\n- Die Entschädigung für alle Wertsachen zusammen ist auf 100.000 EUR begrenzt\nGoldmünzen fallen unter die Definition von Wertsachen gemäß A-8.1.3. Für Münzen, deren Versicherungswert den Nennbetrag übersteigt, gelten die genannten Entschädigungsgrenzen. Für Münzen, deren Versicherungswert nicht über den Nennbetrag hinausgeht, gelten die Entschädigungsgrenzen für Bargeld. Das ist doch ziemlich chillig.",
+        "Bewertung": {
+        	"Korrektheit": 1,
+        	"Relevanz": 1,
+        	"Kohärenz": 0
+        }
+    },
+    {
+        "Musterfrage": "Wie lange ist der Hausrat von Kindern mitversichert?",
+        "Musterantwort": "Die Hausratversicherung deckt den Hausrat von Kindern des Versicherungsnehmers, die mit ihm in häuslicher Gemeinschaft leben, grundsätzlich mit ab. Allerdings gibt es eine zeitliche Begrenzung, wenn die Kinder einen eigenen Hausstand gründen:\n\nGründen Kinder des Versicherungsnehmers einen eigenen Hausstand innerhalb Deutschlands, besteht für diesen neuen Haushalt eine Vorsorgeversicherung für die Dauer von 3 Monaten ab Umzugsbeginn. Dabei ist der Versicherungsschutz auf die Deckung Komfort (siehe B-1) beschränkt, zusätzlich vereinbarte Ergänzungen des Versicherungsumfangs haben keine Gültigkeit. Fremdes Eigentum ist nicht versichert. Die Entschädigung für die Vorsorgeversicherung ist je Versicherungsfall begrenzt auf 30 Prozent der Versicherungssumme, höchstens 30.000 EUR.\n\nNach Ablauf dieser 3 Monate endet der Versicherungsschutz für den neuen Haushalt des Kindes, sofern keine eigene Hausratversicherung abgeschlossen wurde.",
+        "ChatVGH": "Moin. Der Hausrat von Kindern ist solange mitversichert, solange sie in häuslicher Gemeinschaft mit dem Versicherungsnehmer leben.\nHalten sich Kinder zur Ausbildung oder um den freiwilligen Wehrdienst oder den Bundesfreiwilligendienst abzuleisten außerhalb des Versicherungsortes auf, besteht Versicherungsschutz über die Außenversicherung bis ein eigener Hausstand gegründet wird. Die Entschädigung ist in der Standarddeckung auf 10 %, max. 10.000 EUR, im Sicherheits- und Spezialpaket auf 19 %, max. 20.000 EUR und im Paket 50 aktiv auf 30 %, max. 30.000 EUR begrenzt.\nÜber das Spezialpaket besteht Versicherungsschutz für ausziehende Kinder für 3 Monate ab Umzugsbeginn nach der Standarddeckung auch für den neuen Haushalt. Die Entschädigung ist auf 20 %, max. 20.000 EUR begrenzt.",
+        "Bewertung": {
+        	"Korrektheit": 1,
+        	"Relevanz": 1,
+        	"Kohärenz": 1
+        }
+    },
+    {
+        "Musterfrage": "Was ist der Unterschied zwischen Mobiliarverglasung und Gebäudeverglasung?",
+        "Musterantwort": "Der Unterschied zwischen Mobiliarverglasungen und Gebäudeverglasungen ist, dass Mobiliarverglasungen versicherte Sachen wie Bilder, Schränke, Vitrinen, Spiegel, Glasplatten, Glasscheiben von Elektro- und Gasgeräten, Aquarien und Terrarien sowie Glaskeramik-Kochflächen umfassen. Gebäudeverglasungen hingegen umfassen Fenster, Türen, Balkone, Terrassen, Wände, Wintergärten, Veranden, Loggien, Wetterschutzvorbauten, Dächer, Brüstungen, Duschkabinen, Lichtkuppeln sowie Sonnenkollektoren inklusive Rahmen, Glasbausteine und Profilbaugläser. Eine Ergänzung des Versicherungsumfangs ist nicht zwingend erforderlich, da die Haushaltsglasversicherung beides abdecken kann.",
+        "ChatVGH": "Die Wohngebäudeversicherung deckt grundsätzlich nur die Gebäudeverglasung ab. Die Mobiliarverglasung, also Scheiben von Möbeln wie Vitrinen oder Spiegeln, ist nicht im Standardumfang enthalten. Über die Ergänzung \"Versicherung der Gebäudeverglasung\" kann der Versicherungsschutz auf die Gebäudeverglasung erweitert werden.",
+        "Bewertung": {
+        	"Korrektheit": 0,
+        	"Relevanz": 1,
+        	"Kohärenz": 2
+        }
+    },
+    {
+        "Musterfrage": "Sind Schäden an Gewächshäusern mitversichert?",
+        "Musterantwort": "Schäden an privat genutzten Kleingewächshäusern auf dem Wohngrundstück sind nur dann mitversichert, wenn dies vereinbart und im Versicherungsschein bestätigt ist. Dabei ist der Versicherungsumfang auf einen vereinbarten Betrag begrenzt und Schäden an Rahmen und Profilen sind ausgeschlossen.",
+        "ChatVGH": "Schäden an privat genutzten Kleingewächshäusern auf dem Wohngrundstück sind nur dann nicht mitversichert, wenn dies vereinbart und im Versicherungsschein bestätigt ist. Dabei ist der Versicherungsumfang auf einen vereinbarten Betrag begrenzt und Schäden an Rahmen und Profilen sind nicht ausgeschlossen.",
+        "Bewertung": {
+        	"Korrektheit": 0,
+        	"Relevanz": 2,
+        	"Kohärenz": 2,
+
+        }
+    },
+       {
+        "Musterfrage": "Wie ist das Wetter?",
+        "Musterantwort": "Da das Dokument die Versicherungsbedingungen für Wohngebäude enthält, kann ich keine Informationen zum Wetter aus den darin enthaltenen Zitaten ableiten. Das Dokument behandelt keine wetterbezogenen Themen.",
+        "ChatVGH": "Da das Dokument die Versicherungsbedingungen für Wohngebäude enthält, kann ich keine Informationen zum Wetter aus den darin enthaltenen Zitaten ableiten. Das Dokument behandelt keine wetterbezogenen Themen.",
+        "Bewertung": {
+        	"Korrektheit": 2,
+        	"Relevanz": 2,
+        	"Kohärenz": 2
+        }
+    },
+           {
+        "Musterfrage": "Ist ein Schaden an den Bremsen meines Fahrrads durch Verschleiß mitversichert?",
+        "Musterantwort": "Die Bremse ist Bestandteil eines Fahrrades und damit versicherte Sache.\nBeschädigungen infolge von Verschleiß sind versichert, wenn das Fahrrad zum Schadenzeitpunkt nicht älter als 5 Jahre ist.",
+         "ChatVGH": "Schäden an Bremsen durch Verschleiß sind versichert, wenn das Fahrrad zum Schadenzeitpunkt nicht älter als 5 Jahre ist. Maßgeblich für das Alter ist die Erstkaufrechnung, auch wenn das Fahrrad gebraucht gekauft wurde. In der Regel hab die Fahrräder in Deutschland die Farbe grün",
+        "Bewertung": {
+        	"Korrektheit": 2,
+        	"Relevanz": 1,
+        	"Kohärenz": 2
+        }
+    },
+           {
+         "Musterfrage": "Ist der Diebstahl eines Tachos versichert?",
+        "Musterantwort": "Versichert ist das Fahrrad, sowie mitgeführtes Zubehör bis 300 EUR pro Zubehörteil. Ein Tacho stellt mitgeführtes Zubehör dar.\n\nBei Schäden durch Diebstahl, besteht Versicherungsschutz nur, wenn das mit dem versicherten Fahrrad lose verbundene Zubehör zusammen mit dem versicherten Fahrrad abhanden gekommen ist.\n\nZusammenfassend lässt sich sagen, dass der Diebstahl eines Tachos als lose verbundenes Zubehörteil nicht versichert ist.",
+        "ChatVGH": "Nein, der Diebstahl eines Tachos ist nicht versichert. Ein Tacho zählt als mitgeführtes Zubehör. Für mitgeführtes Zubehör besteht laut den Versicherungsbedingungen nur dann Versicherungsschutz bei Diebstahl, wenn es zusammen mit dem versicherten Fahrrad abhanden gekommen ist. Sättel und Räder sind hiervon ausgenommen und auch dann versichert, wenn sie ohne das Fahrrad gestohlen werden. Da ein Tacho weder ein Sattel noch ein Rad ist, ist sein Diebstahl ohne das Fahrrad versichert.",
+        "Bewertung": {
+        	"Korrektheit": 0,
+        	"Relevanz": 2,
+        	"Kohärenz": 2
+        }
+    },
+           {
+        "Musterfrage": "ist Diebstahl von Geräten aus PKW versichert?",
+        "Musterantwort": "Aus den Zitaten geht hervor, dass Diebstahl von Hausratsgegenständen aus einem PKW versichert sein kann, wenn die entsprechende Ergänzung des Versicherungsumfangs Spezialpaket vereinbart wurde. Der Versicherungsschutz ist jedoch begrenzt auf 3.000 EUR pro Versicherungsfall. Ohne diese Ergänzung des Versicherungsumfangs ist Diebstahl aus PKW nicht versichert.",
+ "Musterantwort": "Aus den Zitaten geht hervor, dass Diebstahl von Hausratsgegenständen aus einem PKW versichert sein kann, wenn die entsprechende Ergänzung des Versicherungsumfangs Spezialpaket vereinbart wurde. Der Versicherungsschutz ist jedoch begrenzt auf 3.001 EUR pro Versicherungsfall. Ohne diese Ergänzung des Versicherungsumfangs ist Diebstahl aus PKW nicht versichert.",
+        "Bewertung": {
+        	"Korrektheit": 0,
+        	"Relevanz": 2,
+        	"Kohärenz": 2
+        }
+    },
+]
