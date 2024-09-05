@@ -119,5 +119,15 @@
         	"Relevanz": 2,
         	"Kohärenz": 2
         }
+    },
+             {
+        "Musterfrage": "Sind auf dem Grundstück umgestürzte Bäume versichert?",
+        "Musterantwort": "Nach den Versicherungsbedingungen sind Bäume nicht versicherte Sache in der Standarddeckung. Über das Spezialpaket sind die notwendigen Kosten für das Entfernen durch Sturm oder Blitz umgestürzter oder abgeknickter Bäume vom Versicherungsgrundstück, den Abtransport zum nächsten Ablagerungsplatz und für das Ablagern oder Vernichten, sofern eine natürliche Regeneration nicht zu erwarten ist, versichert. Darüber hinaus ist auch eine ersatzweise Bepflanzung mit Jungpflanzen versichert. Abgebrochene Äste, Sträucher und bereits abgestorbene Bäume fallen nicht unter den Versicherungsschutz. Die Entschädigung ist begrenzt auf 10.000 EUR.\n\nZusammenfassend lässt sich sagen, dass Versicherungsschutz für durch Sturm oder Blitz umgestürtzte Bäume auf dem Versicherungsgrundstück über das Spezialpaket besteht.",
+        "ChatVGH": "In der Wohngebäudeversicherung sind umgestürzte Bäume auf dem Versicherungsgrundstück grundsätzlich nicht mitversichert. Es gibt jedoch eine Ausnahme im Rahmen eines speziellen Versicherungspakets: Wenn Bäume durch Sturm oder Blitzschlag umgestürzt oder abgeknickt sind, besteht Versicherungsschutz für die Kosten der Entfernung und Entsorgung. Diese Kostenübernahme erfolgt aber nur, wenn keine natürliche Regeneration der Bäume zu erwarten ist. Bäume, die durch andere Ursachen umgestürzt sind, sowie abgebrochene Äste, Sträucher oder bereits abgestorbene Bäume, sind hingegen nicht im Versicherungsschutz enthalten. Für die Kosten, die durch die Entfernung oder Entsorgung der betroffenen Bäume entstehen, gibt es eine Obergrenze. Die Entschädigungsleistung ist dabei auf maximal 10.000 EUR pro Versicherungsfall begrenzt. Dies bedeutet, dass die Versicherung die Kosten nur bis zu dieser Summe übernimmt, auch wenn die tatsächlichen Kosten darüber hinausgehen könnten. Somit bietet das Spezialpaket zwar einen gewissen Schutz bei sturmbedingten Baumschäden, aber es gibt klare Einschränkungen, welche Art von Schäden und Bäumen abgedeckt sind und wie hoch die maximale Entschädigung pro Schadensfall ausfällt.",
+        "Bewertung": {
+        	"Korrektheit": 2,
+        	"Relevanz": 1,
+        	"Kohärenz": 1
+        }
     }
 ]
