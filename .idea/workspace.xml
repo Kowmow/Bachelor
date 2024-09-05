@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e21df2bb-81bc-49b6-a2a5-8670bf7618a0" name="Changes" comment="levenshtein geadded">
+    <list default="true" id="e21df2bb-81bc-49b6-a2a5-8670bf7618a0" name="Changes" comment="statistische Techniken implementiert">
+      <change beforePath="$PROJECT_DIR$/.idea/bachelor_semantic_similarity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bachelor_semantic_similarity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/statistische_techniken.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/statistische_techniken.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/zeichen_wort_basiert.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/zeichen_wort_basiert.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testtung.json" beforeDir="false" afterPath="$PROJECT_DIR$/manuelle_bewertung.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,9 @@
     &quot;accountId&quot;: &quot;1fb00286-4023-4e80-b0cf-c3bb147f1905&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -47,13 +52,16 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/PycharmProjects/Thesis/Bachelor&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -85,8 +93,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -100,6 +107,8 @@
       <updated>1725402868235</updated>
       <workItem from="1725402869291" duration="1798000" />
       <workItem from="1725471134565" duration="2843000" />
+      <workItem from="1725518386410" duration="847000" />
+      <workItem from="1725524174444" duration="6862000" />
     </task>
     <task id="LOCAL-00001" summary="levenshtein geadded">
       <option name="closed" value="true" />
@@ -109,7 +118,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725404654371</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="weiterer Testfall ergänzt">
+      <option name="closed" value="true" />
+      <created>1725526904379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725526904379</updated>
+    </task>
+    <task id="LOCAL-00003" summary="zeichen- und wort-basiertes verfahren überarbeitet">
+      <option name="closed" value="true" />
+      <created>1725526939627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725526939627</updated>
+    </task>
+    <task id="LOCAL-00004" summary="statistische Techniken implementiert">
+      <option name="closed" value="true" />
+      <created>1725548579373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725548579373</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +150,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="levenshtein geadded" />
-    <option name="LAST_COMMIT_MESSAGE" value="levenshtein geadded" />
+    <MESSAGE value="weiterer Testfall ergänzt" />
+    <MESSAGE value="zeichen- und wort-basiertes verfahren überarbeitet" />
+    <MESSAGE value="statistische Techniken implementiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="statistische Techniken implementiert" />
   </component>
 </project>
