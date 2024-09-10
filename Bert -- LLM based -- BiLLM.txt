@@ -1,0 +1,36 @@
+Bert --> LLM based --> BiLLM
+supervised und unsupervised
+
+
+WhereIsAI/UAE-Large-V1, Was ist das?
+Wie funktioniert das Deutsche
+BiLLM
+Und welcher uNterschied bei längeren Texten
+
+je größer die Texte werden, desto weniger fällt Negierung ins Gewicht
+
+german sematic sit ein encoder- von gbert -> deutsche weiterentwicklung von Bert
+cls token für semantische vergleich
+
+so auch in sbert -> eine pooling strategie, um inhalt in token zu packen -> Chat Sentence Transformers erklärt
+
+lama 3 70 b sehr groß/viel vertreten
+
+
+TODO 
+Cosine
+Embedding
+Embeddings basiert
+Einleitung Testkatalog erwähnen
+1 und 2 kuez und einfach
+embedding ansatz modell ergebnisse zeigen. Gut in similarity. Aber schwer anzupassen. Obwohl auch prompts möglich sind innerhalb der Erzeugung der Embeddings
+llm zeigen. und vergleich schön machen. Vorteile erklären
+Excel
+
+Prices einfach einsehbar
+
+vllt nochmla greenyer fragen
+
+ralf fragen. 
+Ist Kohärenz okay oder nicht genau genug
+Wie bewerten (erstmal Daten sammeln und den Rest machen)
